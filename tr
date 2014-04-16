@@ -1,51 +1,51 @@
-name:                      English
+name:                      Türkçe
 
 === General ===
-add:                       Add
-apply:                     Apply
-cancel:                    Cancel
-clear:                     Clear
-close:                     Close
-continue:                  Continue
-copy:                      Copy
-delete:                    Delete
-deleted:                   Deleted
-error:                     Error
-exit:                      Exit
-minimizewindow:            Minimize
-no:                        No
-ok:                        OK
-remove:                    Remove
-rename:                    Rename
-reload:                    Reload
-result:                    Result
+add:                       Ekle
+apply:                     Uygula
+cancel:                    İptal
+clear:                     Temizle
+close:                     Kapat
+continue:                  Devam
+copy:                      Kopyala
+delete:                    Sil
+deleted:                   Silindi
+error:                     Hata
+exit:                      Çıkış
+minimizewindow:            Ekranı küçült
+no:                        Hayır
+ok:                        Tamam
+remove:                    Taşı
+rename:                    Yeniden adlandır
+reload:                    Yeniden yükle
+result:                    Sonuç
 restorewindow:             Restore
-save:                      Save
+save:                      Kaydet
 selectfile:                Browse...
-yes:                       Yes
-agf:                       Revert as good faith edit with custom reason
+yes:                       Evet
+agf:                       İyi niyetli değişikliği geri al.
 import:                    Import from global conf
-successful:                Successful
-summary:                   Summary
+successful:                Başarılı
+summary:                   Özet
 id:                        ID
 type:                      Type
-target:                    Target
-user:                      User
-size:                      Size
-date:                      Date
-page:                      Page
-time:                      Time
+target:                    Hedef
+user:                      Kullanıcı
+size:                      Boyut
+date:                      Tarih
+page:                      Sayfa
+time:                      Zaman
 version:                   Version
 // this is just a translation of name in general, for example "Name of user" or "Name of file"
-general-name:              Name
-author:                    Author
-description:               Description
-status:                    Status
+general-name:              İsim
+author:                    Yazar
+description:               Tanım
+status:                    Durum
 link:                      Link
-reason:                    Reason
-diffid:                    DiffID
-expiry-time:               Expiry time
-duration:                  Duration
+reason:                    Sebep
+diffid:                    Fark ID
+expiry-time:               Bitiş zamanı
+duration:                  Süreç
 no-token:                  No token
 flags:                     Flags
 
