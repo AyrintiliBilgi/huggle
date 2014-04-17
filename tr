@@ -57,20 +57,20 @@ browser-diff:              Diff of page: $1 (score: $2)
 browser-fail:              Unable to retrieve diff: $1
 
 === Edit types ===
-//edittype-blocknote:        Block notifications
+//edittype-blocknote:        Bildirimleri engelle
 //edittype-deletenote:       Deletion request notifications
 //edittype-deletetag:        Deletion discussion tags
 //edittype-deletereq:        Other deletion discussion edits
 //edittype-manual:           Manual edits
-//edittype-message:          User messages
-//edittype-note:             Other notifications
+//edittype-message:          Kullanıcı mesajları
+//edittype-note:             Diğer bildirimler
 //edittype-prodtag:          Proposed deletion tags
 //edittype-protectreq:       Protection requests
-//edittype-report:           Reports
-//edittype-revert:           Reverts
+//edittype-report:           Raporlar
+//edittype-revert:           Geri almalar
 //edittype-speedytag:        Speedy deletion tags
 //edittype-tag:              Other tags
-//edittype-warning:          Warnings
+//edittype-warning:          Uyarılar
 
 === About form ===
 about-contributors:        Developers:
@@ -106,13 +106,13 @@ closing-config:            Updating configuration subpage...
 
 === Configuration form ===
 config-summ:               Custom revert summaries for templates
-config-title:              Options
+config-title:              Seçenkler
 config-rememberme:         Remember my username
 config-autowhitelist:      Automatically whitelist users
 config-openinbrowser:      Open browser links in new browser window
 config-shownewedits:       Show new edits to the selected page as they are made
 config-ircmode:            Use IRC feed for recent changes if possible
-config-ircport:            IRC port
+config-ircport:            IRC portu
 config-difffontsize:       Diff font size
 config-logfile:            Log file
 config-viewlocalconfig:    View local configuration folder
@@ -198,21 +198,21 @@ irc-wait:                  Waiting for irc feed provider to stop
 irc-switch-rc:             Switching to wiki RC feed
 
 === Login ===
-login-intro:               Please enter your wikipedia username and pick a project
-login-language:            Language:
-login-project:             Project:
-login-username:            Username:
-login-password:            Password:
-login-proxygroup:          Proxy settings
-login-proxy:               Use a proxy server
-login-proxyaddress:        Address:
+login-intro:               Lütfen kullanıcı adınızı giriniz ve proje seçiniz
+login-language:            Dil:
+login-project:             Proje:
+login-username:            Kullanıcı adı:
+login-password:            Şifre:
+login-proxygroup:          Proxy ayarları
+login-proxy:               Proxy sunucu kullan
+login-proxyaddress:        Adres:
 login-proxyport:           Port:
 login-proxydomain:         Domain:
-login-start:               Login
-login-translate:           Translate...
+login-start:               Giriş
+login-translate:           Tercüme et...
 login-captchatitle:        Captcha required to log in
 
-login-progress-start:      Logging in...
+login-progress-start:      Giriş yapılıyor..
 login-progress-language:   Updating message files...
 login-progress-global:     Checking global configuration...
 login-progress-config:     Checking configuration pages...
@@ -226,7 +226,7 @@ login-error-age:           Use of Huggle on this project requires an account at 
 login-error-alldisabled:   Huggle is currently disabled on all projects.
 login-error-approval:      Use of Huggle on this project requires approval.
 login-error-autoconfirmed: Use of Huggle on this project requires that your account is autoconfirmed.
-login-error-cancelled:     Cancelled.
+login-error-cancelled:     İptal edildi.
 login-error-captcha:       Incorrect password or confirmation code.
 login-error-config:        Login failed unable to retrieve local config: $1
 login-error-count:         Use of Huggle on this project requires at least $1 edits.
